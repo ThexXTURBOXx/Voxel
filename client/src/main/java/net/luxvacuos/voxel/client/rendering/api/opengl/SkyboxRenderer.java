@@ -59,8 +59,8 @@ public class SkyboxRenderer {
 	/**
 	 * Render the Skybox
 	 * 
-	 * @param camera
-	 *            A Camera
+	 * @param gm
+	 *            Game Resources
 	 * @param r
 	 *            Fog Red Color
 	 * @param g
